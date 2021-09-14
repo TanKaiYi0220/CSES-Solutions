@@ -1,5 +1,7 @@
 # CSES-Solution
 > Accepted solutions for [CSES Problem Set](https://cses.fi/problemset)
+> These solutions are may not the best solution for each task.
+> I'm just sharing my own solutions or solution that I had found.
 # Table of Contents
 * [Introductory Problems](#Introductory-Problems)
 * [Sorting and Searching](#Sorting-and-Searching)
