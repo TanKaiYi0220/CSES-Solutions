@@ -7,4 +7,6 @@
 * [Weird Algorithm](src/Introductory%20Problems/Weird%20Algorithm.cpp)
 * [Missing Number](src/Introductory%20Problems/Missing%20Number.cpp)
 * [Repetitions](src/Introductory%20Problems/Repetitions.cpp)
+* [Increasing Array](src/Introductory%20Problems/Increasing%20Array.cpp)
+* [Permutations](src/Introductory%20Problems/Permutations.cpp)
 # Sorting and Searching <a id='Sorting-and-Searching'></a>
