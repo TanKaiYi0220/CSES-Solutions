@@ -16,4 +16,5 @@
 * [Two Sets](src/Introductory%20Problems/Two%20Sets.cpp)
 * [Bit Strings](src/Introductory%20Problems/Bit%20Strings.cpp)
 * [Trailing Zeros](src/Introductory%20Problems/Trailing%20Zeros.cpp)
+* [Coin Piles](src/Introductory%20Problems/Coin%20Piles.cpp)
 # Sorting and Searching <a id='Sorting-and-Searching'></a>
