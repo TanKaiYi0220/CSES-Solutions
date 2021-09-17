@@ -18,4 +18,6 @@
 * [Trailing Zeros](src/Introductory%20Problems/Trailing%20Zeros.cpp)
 * [Coin Piles](src/Introductory%20Problems/Coin%20Piles.cpp)
 * [Palindrome Reorder](src/Introductory%20Problems/Palindrome%20Reorder.cpp)
+* [Gray Code](src/Introductory%20Problems/Gray%20Code.cpp)
+* [Tower of Hanoi](src/Introductory%20Problems/Tower%20of%20Hanoi.cpp)
 # Sorting and Searching <a id='Sorting-and-Searching'></a>
