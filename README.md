@@ -17,4 +17,5 @@
 * [Bit Strings](src/Introductory%20Problems/Bit%20Strings.cpp)
 * [Trailing Zeros](src/Introductory%20Problems/Trailing%20Zeros.cpp)
 * [Coin Piles](src/Introductory%20Problems/Coin%20Piles.cpp)
+* [Palindrome Reorder](src/Introductory%20Problems/Palindrome%20Reorder.cpp)
 # Sorting and Searching <a id='Sorting-and-Searching'></a>
