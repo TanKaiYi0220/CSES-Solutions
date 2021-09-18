@@ -29,299 +29,299 @@
 * [Palindrome Reorder](src/Introductory%20Problems/Palindrome%20Reorder.cpp)
 * [Gray Code](src/Introductory%20Problems/Gray%20Code.cpp)
 * [Tower of Hanoi](src/Introductory%20Problems/Tower%20of%20Hanoi.cpp)
-* [Creating Strings](src/Introductory%20Problems/Creating%20Strings.cpp)
-* [Apple Division](src/Introductory%20Problems/Apple%20Division.cpp)
-* [Chessboard and Queens](src/Introductory%20Problems/Chessboard%20and%20Queens.cpp)
-* [Digit Queries](src/Introductory%20Problems/Digit%20Queries.cpp)
-* [Grid Paths](src/Introductory%20Problems/Grid%20Paths.cpp)
+* Creating Strings
+* Apple Division
+* Chessboard and Queens
+* Digit Queries
+* Grid Paths
 # Sorting and Searching <a id='Sorting-and-Searching'></a>
-* [Distinct Numbers](src/Sorting%20and%20Searching/Distinct%20Numbers.cpp)
-* [Apartments](src/Sorting%20and%20Searching/Apartments.cpp)
-* [Ferris Wheel](src/Sorting%20and%20Searching/Ferris%20Wheel.cpp)
-* [Concert Tickets](src/Sorting%20and%20Searching/Concert%20Tickets.cpp)
-* [Restaurant Customers](src/Sorting%20and%20Searching/Restaurant%20Customers.cpp)
-* [Movie Festival](src/Sorting%20and%20Searching/Movie%20Festival.cpp)
-* [Sum of Two Values](src/Sorting%20and%20Searching/Sum%20of%20Two%20Values.cpp)
-* [Maximum Subarray Sum](src/Sorting%20and%20Searching/Maximum%20Subarray%20Sum.cpp)
-* [Stick Lengths](src/Sorting%20and%20Searching/Stick%20Lengths.cpp)
-* [Missing Coin Sum](src/Sorting%20and%20Searching/Missing%20Coin%20Sum.cpp)
-* [Collecting Numbers](src/Sorting%20and%20Searching/Collecting%20Numbers.cpp)
-* [Collecting Numbers II](src/Sorting%20and%20Searching/Collecting%20Numbers%20II.cpp)
-* [Playlist](src/Sorting%20and%20Searching/Playlist.cpp)
-* [Towers](src/Sorting%20and%20Searching/Towers.cpp)
-* [Traffic Lights](src/Sorting%20and%20Searching/Traffic%20Lights.cpp)
-* [Josephus Problem I](src/Sorting%20and%20Searching/Josephus%20Problem%20I.cpp)
-* [Josephus Problem II](src/Sorting%20and%20Searching/Josephus%20Problem%20II.cpp)
-* [Nested Ranges Check](src/Sorting%20and%20Searching/Nested%20Ranges%20Check.cpp)
-* [Nested Ranges Count](src/Sorting%20and%20Searching/Nested%20Ranges%20Count.cpp)
-* [Room Allocation](src/Sorting%20and%20Searching/Room%20Allocation.cpp)
-* [Factory Machines](src/Sorting%20and%20Searching/Factory%20Machines.cpp)
-* [Tasks and Deadlines](src/Sorting%20and%20Searching/Tasks%20and%20Deadlines.cpp)
-* [Reading Books](src/Sorting%20and%20Searching/Reading%20Books.cpp)
-* [Sum of Three Values](src/Sorting%20and%20Searching/Sum%20of%20Three%20Values.cpp)
-* [Sum of Four Values](src/Sorting%20and%20Searching/Sum%20of%20Four%20Values.cpp)
-* [Nearest Smaller Values](src/Sorting%20and%20Searching/Nearest%20Smaller%20Values.cpp)
-* [Subarray Sums I](src/Sorting%20and%20Searching/Subarray%20Sums%20I.cpp)
-* [Subarray Sums II](src/Sorting%20and%20Searching/Subarray%20Sums%20II.cpp)
-* [Subarray Divisibility](src/Sorting%20and%20Searching/Subarray%20Divisibility.cpp)
-* [Subarray Distinct Values](src/Sorting%20and%20Searching/Subarray%20Distinct%20Values.cpp)
-* [Array Division](src/Sorting%20and%20Searching/Array%20Division.cpp)
-* [Sliding Median](src/Sorting%20and%20Searching/Sliding%20Median.cpp)
-* [Sliding Cost](src/Sorting%20and%20Searching/Sliding%20Cost.cpp)
-* [Movie Festival II](src/Sorting%20and%20Searching/Movie%20Festival%20II.cpp)
-* [Maximum Subarray Sum II](src/Sorting%20and%20Searching/Maximum%20Subarray%20Sum%20II.cpp)
+* Distinct Numbers
+* Apartments
+* Ferris Wheel
+* Concert Tickets
+* Restaurant Customers
+* Movie Festival
+* Sum of Two Values
+* Maximum Subarray Sum
+* Stick Lengths
+* Missing Coin Sum
+* Collecting Numbers
+* Collecting Numbers II
+* Playlist
+* Towers
+* Traffic Lights
+* Josephus Problem I
+* Josephus Problem II
+* Nested Ranges Check
+* Nested Ranges Count
+* Room Allocation
+* Factory Machines
+* Tasks and Deadlines
+* Reading Books
+* Sum of Three Values
+* Sum of Four Values
+* Nearest Smaller Values
+* Subarray Sums I
+* Subarray Sums II
+* Subarray Divisibility
+* Subarray Distinct Values
+* Array Division
+* Sliding Median
+* Sliding Cost
+* Movie Festival II
+* Maximum Subarray Sum II
 # Dynamic Programming <a id='Dynamic-Programming'></a>
-* [Dice Combinations](src/Dynamic%20Programming/Dice%20Combinations.cpp)
-* [Minimizing Coins](src/Dynamic%20Programming/Minimizing%20Coins.cpp)
-* [Coin Combinations I](src/Dynamic%20Programming/Coin%20Combinations%20I.cpp)
-* [Coin Combinations II](src/Dynamic%20Programming/Coin%20Combinations%20II.cpp)
-* [Removing Digits](src/Dynamic%20Programming/Removing%20Digits.cpp)
-* [Grid Paths](src/Dynamic%20Programming/Grid%20Paths.cpp)
-* [Book Shop](src/Dynamic%20Programming/Book%20Shop.cpp)
-* [Array Description](src/Dynamic%20Programming/Array%20Description.cpp)
-* [Counting Towers](src/Dynamic%20Programming/Counting%20Towers.cpp)
-* [Edit Distance](src/Dynamic%20Programming/Edit%20Distance.cpp)
-* [Rectangle Cutting](src/Dynamic%20Programming/Rectangle%20Cutting.cpp)
-* [Money Sums](src/Dynamic%20Programming/Money%20Sums.cpp)
-* [Removal Game](src/Dynamic%20Programming/Removal%20Game.cpp)
-* [Two Sets II](src/Dynamic%20Programming/Two%20Sets%20II.cpp)
-* [Increasing Subsequence](src/Dynamic%20Programming/Increasing%20Subsequence.cpp)
-* [Projects](src/Dynamic%20Programming/Projects.cpp)
-* [Elevator Rides](src/Dynamic%20Programming/Elevator%20Rides.cpp)
-* [Counting Tilings](src/Dynamic%20Programming/Counting%20Tilings.cpp)
-* [Counting Numbers](src/Dynamic%20Programming/Counting%20Numbers.cpp)
+* Dice Combinations
+* Minimizing Coins
+* Coin Combinations I
+* Coin Combinations II
+* Removing Digits
+* Grid Paths
+* Book Shop
+* Array Description
+* Counting Towers
+* Edit Distance
+* Rectangle Cutting
+* Money Sums
+* Removal Game
+* Two Sets II
+* Increasing Subsequence
+* Projects
+* Elevator Rides
+* Counting Tilings
+* Counting Numbers
 # Graph Algorithms <a id='Graph-Algorithms'></a>
-* [Counting Rooms](src/Graph%20Algorithms/Counting%20Rooms.cpp)
-* [Labyrinth](src/Graph%20Algorithms/Labyrinth.cpp)
-* [Building Roads](src/Graph%20Algorithms/Building%20Roads.cpp)
-* [Message Route](src/Graph%20Algorithms/Message%20Route.cpp)
-* [Building Teams](src/Graph%20Algorithms/Building%20Teams.cpp)
-* [Round Trip](src/Graph%20Algorithms/Round%20Trip.cpp)
-* [Monsters](src/Graph%20Algorithms/Monsters.cpp)
-* [Shortest Routes I](src/Graph%20Algorithms/Shortest%20Routes%20I.cpp)
-* [Shortest Routes II](src/Graph%20Algorithms/Shortest%20Routes%20II.cpp)
-* [High Score](src/Graph%20Algorithms/High%20Score.cpp)
-* [Flight Discount](src/Graph%20Algorithms/Flight%20Discount.cpp)
-* [Cycle Finding](src/Graph%20Algorithms/Cycle%20Finding.cpp)
-* [Flight Routes](src/Graph%20Algorithms/Flight%20Routes.cpp)
-* [Round Trip II](src/Graph%20Algorithms/Round%20Trip%20II.cpp)
-* [Course Schedule](src/Graph%20Algorithms/Course%20Schedule.cpp)
-* [Longest Flight Route](src/Graph%20Algorithms/Longest%20Flight%20Route.cpp)
-* [Game Routes](src/Graph%20Algorithms/Game%20Routes.cpp)
-* [Investigation](src/Graph%20Algorithms/Investigation.cpp)
-* [Planets Queries I](src/Graph%20Algorithms/Planets%20Queries%20I.cpp)
-* [Planets Queries II](src/Graph%20Algorithms/Planets%20Queries%20II.cpp)
-* [Planets Cycles](src/Graph%20Algorithms/Planets%20Cycles.cpp)
-* [Road Reparation](src/Graph%20Algorithms/Road%20Reparation.cpp)
-* [Road Construction](src/Graph%20Algorithms/Road%20Construction.cpp)
-* [Flight Routes Check](src/Graph%20Algorithms/Flight%20Routes%20Check.cpp)
-* [Planets and Kingdoms](src/Graph%20Algorithms/Planets%20and%20Kingdoms.cpp)
-* [Giant Pizza](src/Graph%20Algorithms/Giant%20Pizza.cpp)
-* [Coin Collector](src/Graph%20Algorithms/Coin%20Collector.cpp)
-* [Mail Delivery](src/Graph%20Algorithms/Mail%20Delivery.cpp)
-* [De Bruijn Sequence](src/Graph%20Algorithms/De%20Bruijn%20Sequence.cpp)
-* [Teleporters Path](src/Graph%20Algorithms/Teleporters%20Path.cpp)
-* [Hamiltonian Flights](src/Graph%20Algorithms/Hamiltonian%20Flights.cpp)
-* [Knight's Tour](src/Graph%20Algorithms/Knight's%20Tour.cpp)
-* [Download Speed](src/Graph%20Algorithms/Download%20Speed.cpp)
-* [Police Chase](src/Graph%20Algorithms/Police%20Chase.cpp)
-* [School Dance](src/Graph%20Algorithms/School%20Dance.cpp)
-* [Distinct Routes](src/Graph%20Algorithms/Distinct%20Routes.cpp)
+* Counting Rooms
+* Labyrinth
+* Building Roads
+* Message Route
+* Building Teams
+* Round Trip
+* Monsters
+* Shortest Routes I
+* Shortest Routes II
+* High Score
+* Flight Discount
+* Cycle Finding
+* Flight Routes
+* Round Trip II
+* Course Schedule
+* Longest Flight Route
+* Game Routes
+* Investigation
+* Planets Queries I
+* Planets Queries II
+* Planets Cycles
+* Road Reparation
+* Road Construction
+* Flight Routes Check
+* Planets and Kingdoms
+* Giant Pizza
+* Coin Collector
+* Mail Delivery
+* De Bruijn Sequence
+* Teleporters Path
+* Hamiltonian Flights
+* Knight's Tour
+* Download Speed
+* Police Chase
+* School Dance
+* Distinct Routes
 # Range Queries <a id='Range-Queries'></a>
-* [Static Range Sum Queries](src/Range%20Queries/Static%20Range%20Sum%20Queries.cpp)
-* [Static Range Minimum Queries](src/Range%20Queries/Static%20Range%20Minimum%20Queries.cpp)
-* [Dynamic Range Sum Queries](src/Range%20Queries/Dynamic%20Range%20Sum%20Queries.cpp)
-* [Dynamic Range Minimum Queries](src/Range%20Queries/Dynamic%20Range%20Minimum%20Queries.cpp)
-* [Range Xor Queries](src/Range%20Queries/Range%20Xor%20Queries.cpp)
-* [Range Update Queries](src/Range%20Queries/Range%20Update%20Queries.cpp)
-* [Forest Queries](src/Range%20Queries/Forest%20Queries.cpp)
-* [Hotel Queries](src/Range%20Queries/Hotel%20Queries.cpp)
-* [List Removals](src/Range%20Queries/List%20Removals.cpp)
-* [Salary Queries](src/Range%20Queries/Salary%20Queries.cpp)
-* [Prefix Sum Queries](src/Range%20Queries/Prefix%20Sum%20Queries.cpp)
-* [Pizzeria Queries](src/Range%20Queries/Pizzeria%20Queries.cpp)
-* [Subarray Sum Queries](src/Range%20Queries/Subarray%20Sum%20Queries.cpp)
-* [Distinct Values Queries](src/Range%20Queries/Distinct%20Values%20Queries.cpp)
-* [Increasing Array Queries](src/Range%20Queries/Increasing%20Array%20Queries.cpp)
-* [Forest Queries II](src/Range%20Queries/Forest%20Queries%20II.cpp)
-* [Range Updates and Sums](src/Range%20Queries/Range%20Updates%20and%20Sums.cpp)
-* [Polynomial Queries](src/Range%20Queries/Polynomial%20Queries.cpp)
-* [Range Queries and Copies](src/Range%20Queries/Range%20Queries%20and%20Copies.cpp)
+* Static Range Sum Queries
+* Static Range Minimum Queries
+* Dynamic Range Sum Queries
+* Dynamic Range Minimum Queries
+* Range Xor Queries
+* Range Update Queries
+* Forest Queries
+* Hotel Queries
+* List Removals
+* Salary Queries
+* Prefix Sum Queries
+* Pizzeria Queries
+* Subarray Sum Queries
+* Distinct Values Queries
+* Increasing Array Queries
+* Forest Queries II
+* Range Updates and Sums
+* Polynomial Queries
+* Range Queries and Copies
 # Tree Algorithms <a id='Tree-Algorithms'></a>
-* [Subordinates](src/Tree%20Algorithms/Subordinates.cpp)
-* [Tree Matching](src/Tree%20Algorithms/Tree%20Matching.cpp)
-* [Tree Diameter](src/Tree%20Algorithms/Tree%20Diameter.cpp)
-* [Tree Distances I](src/Tree%20Algorithms/Tree%20Distances%20I.cpp)
-* [Tree Distances II](src/Tree%20Algorithms/Tree%20Distances%20II.cpp)
-* [Company Queries I](src/Tree%20Algorithms/Company%20Queries%20I.cpp)
-* [Company Queries II](src/Tree%20Algorithms/Company%20Queries%20II.cpp)
-* [Distance Queries](src/Tree%20Algorithms/Distance%20Queries.cpp)
-* [Counting Paths](src/Tree%20Algorithms/Counting%20Paths.cpp)
-* [Subtree Queries](src/Tree%20Algorithms/Subtree%20Queries.cpp)
-* [Path Queries](src/Tree%20Algorithms/Path%20Queries.cpp)
-* [Path Queries II](src/Tree%20Algorithms/Path%20Queries%20II.cpp)
-* [Distinct Colors](src/Tree%20Algorithms/Distinct%20Colors.cpp)
-* [Finding a Centroid](src/Tree%20Algorithms/Finding%20a%20Centroid.cpp)
-* [Fixed-Length Paths I](src/Tree%20Algorithms/Fixed-Length%20Paths%20I.cpp)
-* [Fixed-Length Paths II](src/Tree%20Algorithms/Fixed-Length%20Paths%20II.cpp)
+* Subordinates
+* Tree Matching
+* Tree Diameter
+* Tree Distances I
+* Tree Distances II
+* Company Queries I
+* Company Queries II
+* Distance Queries
+* Counting Paths
+* Subtree Queries
+* Path Queries
+* Path Queries II
+* Distinct Colors
+* Finding a Centroid
+* Fixed-Length Paths I
+* Fixed-Length Paths II
 # Mathematics <a id='Mathematics'></a>
-* [Josephus Queries](src/Mathematics/Josephus%20Queries.cpp)
-* [Exponentiation](src/Mathematics/Exponentiation.cpp)
-* [Exponentiation II](src/Mathematics/Exponentiation%20II.cpp)
-* [Counting Divisors](src/Mathematics/Counting%20Divisors.cpp)
-* [Common Divisors](src/Mathematics/Common%20Divisors.cpp)
-* [Sum of Divisors](src/Mathematics/Sum%20of%20Divisors.cpp)
-* [Divisor Analysis](src/Mathematics/Divisor%20Analysis.cpp)
-* [Prime Multiples](src/Mathematics/Prime%20Multiples.cpp)
-* [Counting Coprime Pairs](src/Mathematics/Counting%20Coprime%20Pairs.cpp)
-* [Binomial Coefficients](src/Mathematics/Binomial%20Coefficients.cpp)
-* [Creating Strings II](src/Mathematics/Creating%20Strings%20II.cpp)
-* [Distributing Apples](src/Mathematics/Distributing%20Apples.cpp)
-* [Christmas Party](src/Mathematics/Christmas%20Party.cpp)
-* [Bracket Sequences I](src/Mathematics/Bracket%20Sequences%20I.cpp)
-* [Bracket Sequences II](src/Mathematics/Bracket%20Sequences%20II.cpp)
-* [Counting Necklaces](src/Mathematics/Counting%20Necklaces.cpp)
-* [Counting Grids](src/Mathematics/Counting%20Grids.cpp)
-* [Fibonacci Numbers](src/Mathematics/Fibonacci%20Numbers.cpp)
-* [Throwing Dice](src/Mathematics/Throwing%20Dice.cpp)
-* [Graph Paths I](src/Mathematics/Graph%20Paths%20I.cpp)
-* [Graph Paths II](src/Mathematics/Graph%20Paths%20II.cpp)
-* [Dice Probability](src/Mathematics/Dice%20Probability.cpp)
-* [Moving Robots](src/Mathematics/Moving%20Robots.cpp)
-* [Candy Lottery](src/Mathematics/Candy%20Lottery.cpp)
-* [Inversion Probability](src/Mathematics/Inversion%20Probability.cpp)
-* [Stick Game](src/Mathematics/Stick%20Game.cpp)
-* [Nim Game I](src/Mathematics/Nim%20Game%20I.cpp)
-* [Nim Game II](src/Mathematics/Nim%20Game%20II.cpp)
-* [Stair Game](src/Mathematics/Stair%20Game.cpp)
-* [Grundy's Game](src/Mathematics/Grundy's%20Game.cpp)
-* [Another Game](src/Mathematics/Another%20Game.cpp)
+* Josephus Queries
+* Exponentiation
+* Exponentiation II
+* Counting Divisors
+* Common Divisors
+* Sum of Divisors
+* Divisor Analysis
+* Prime Multiples
+* Counting Coprime Pairs
+* Binomial Coefficients
+* Creating Strings II
+* Distributing Apples
+* Christmas Party
+* Bracket Sequences I
+* Bracket Sequences II
+* Counting Necklaces
+* Counting Grids
+* Fibonacci Numbers
+* Throwing Dice
+* Graph Paths I
+* Graph Paths II
+* Dice Probability
+* Moving Robots
+* Candy Lottery
+* Inversion Probability
+* Stick Game
+* Nim Game I
+* Nim Game II
+* Stair Game
+* Grundy's Game
+* Another Game
 # String Algorithms <a id='String-Algorithms'></a>
-* [Word Combinations](src/String%20Algorithms/Word%20Combinations.cpp)
-* [String Matching](src/String%20Algorithms/String%20Matching.cpp)
-* [Finding Borders](src/String%20Algorithms/Finding%20Borders.cpp)
-* [Finding Periods](src/String%20Algorithms/Finding%20Periods.cpp)
-* [Minimal Rotation](src/String%20Algorithms/Minimal%20Rotation.cpp)
-* [Longest Palindrome](src/String%20Algorithms/Longest%20Palindrome.cpp)
-* [Required Substring](src/String%20Algorithms/Required%20Substring.cpp)
-* [Palindrome Queries](src/String%20Algorithms/Palindrome%20Queries.cpp)
-* [Finding Patterns](src/String%20Algorithms/Finding%20Patterns.cpp)
-* [Counting Patterns](src/String%20Algorithms/Counting%20Patterns.cpp)
-* [Pattern Positions](src/String%20Algorithms/Pattern%20Positions.cpp)
-* [Distinct Substrings](src/String%20Algorithms/Distinct%20Substrings.cpp)
-* [Repeating Substring](src/String%20Algorithms/Repeating%20Substring.cpp)
-* [String Functions](src/String%20Algorithms/String%20Functions.cpp)
-* [Substring Order I](src/String%20Algorithms/Substring%20Order%20I.cpp)
-* [Substring Order II](src/String%20Algorithms/Substring%20Order%20II.cpp)
-* [Substring Distribution](src/String%20Algorithms/Substring%20Distribution.cpp)
+* Word Combinations
+* String Matching
+* Finding Borders
+* Finding Periods
+* Minimal Rotation
+* Longest Palindrome
+* Required Substring
+* Palindrome Queries
+* Finding Patterns
+* Counting Patterns
+* Pattern Positions
+* Distinct Substrings
+* Repeating Substring
+* String Functions
+* Substring Order I
+* Substring Order II
+* Substring Distribution
 # Geometry <a id='Geometry'></a>
-* [Point Location Test](src/Geometry/Point%20Location%20Test.cpp)
-* [Line Segment Intersection](src/Geometry/Line%20Segment%20Intersection.cpp)
-* [Polygon Area](src/Geometry/Polygon%20Area.cpp)
-* [Point in Polygon](src/Geometry/Point%20in%20Polygon.cpp)
-* [Polygon Lattice Points](src/Geometry/Polygon%20Lattice%20Points.cpp)
-* [Minimum Euclidean Distance](src/Geometry/Minimum%20Euclidean%20Distance.cpp)
-* [Convex Hull](src/Geometry/Convex%20Hull.cpp)
+* Point Location Test
+* Line Segment Intersection
+* Polygon Area
+* Point in Polygon
+* Polygon Lattice Points
+* Minimum Euclidean Distance
+* Convex Hull
 # Advanced Techniques <a id='Advanced-Techniques'></a>
-* [Meet in the Middle](src/Advanced%20Techniques/Meet%20in%20the%20Middle.cpp)
-* [Hamming Distance](src/Advanced%20Techniques/Hamming%20Distance.cpp)
-* [Beautiful Subgrids](src/Advanced%20Techniques/Beautiful%20Subgrids.cpp)
-* [Reachable Nodes](src/Advanced%20Techniques/Reachable%20Nodes.cpp)
-* [Reachability Queries](src/Advanced%20Techniques/Reachability%20Queries.cpp)
-* [Cut and Paste](src/Advanced%20Techniques/Cut%20and%20Paste.cpp)
-* [Substring Reversals](src/Advanced%20Techniques/Substring%20Reversals.cpp)
-* [Reversals and Sums](src/Advanced%20Techniques/Reversals%20and%20Sums.cpp)
-* [Necessary Roads](src/Advanced%20Techniques/Necessary%20Roads.cpp)
-* [Necessary Cities](src/Advanced%20Techniques/Necessary%20Cities.cpp)
-* [Eulerian Subgraphs](src/Advanced%20Techniques/Eulerian%20Subgraphs.cpp)
-* [Monster Game I](src/Advanced%20Techniques/Monster%20Game%20I.cpp)
-* [Monster Game II](src/Advanced%20Techniques/Monster%20Game%20II.cpp)
-* [Subarray Squares](src/Advanced%20Techniques/Subarray%20Squares.cpp)
-* [Houses and Schools](src/Advanced%20Techniques/Houses%20and%20Schools.cpp)
-* [Knuth Division](src/Advanced%20Techniques/Knuth%20Division.cpp)
-* [Apples and Bananas](src/Advanced%20Techniques/Apples%20and%20Bananas.cpp)
-* [One Bit Positions](src/Advanced%20Techniques/One%20Bit%20Positions.cpp)
-* [Signal Processing](src/Advanced%20Techniques/Signal%20Processing.cpp)
-* [New Roads Queries](src/Advanced%20Techniques/New%20Roads%20Queries.cpp)
-* [Dynamic Connectivity](src/Advanced%20Techniques/Dynamic%20Connectivity.cpp)
-* [Parcel Delivery](src/Advanced%20Techniques/Parcel%20Delivery.cpp)
-* [Task Assignment](src/Advanced%20Techniques/Task%20Assignment.cpp)
-* [Distinct Routes II](src/Advanced%20Techniques/Distinct%20Routes%20II.cpp)
+* Meet in the Middle
+* Hamming Distance
+* Beautiful Subgrids
+* Reachable Nodes
+* Reachability Queries
+* Cut and Paste
+* Substring Reversals
+* Reversals and Sums
+* Necessary Roads
+* Necessary Cities
+* Eulerian Subgraphs
+* Monster Game I
+* Monster Game II
+* Subarray Squares
+* Houses and Schools
+* Knuth Division
+* Apples and Bananas
+* One Bit Positions
+* Signal Processing
+* New Roads Queries
+* Dynamic Connectivity
+* Parcel Delivery
+* Task Assignment
+* Distinct Routes II
 # Additional Problems <a id='Additional-Problems'></a>
-* [Shortest Subsequence](src/Additional%20Problems/Shortest%20Subsequence.cpp)
-* [Counting Bits](src/Additional%20Problems/Counting%20Bits.cpp)
-* [Swap Game](src/Additional%20Problems/Swap%20Game.cpp)
-* [Prüfer Code](src/Additional%20Problems/Prüfer%20Code.cpp)
-* [Acyclic Graph Edges](src/Additional%20Problems/Acyclic%20Graph%20Edges.cpp)
-* [Strongly Connected Edges](src/Additional%20Problems/Strongly%20Connected%20Edges.cpp)
-* [Even Outdegree Edges](src/Additional%20Problems/Even%20Outdegree%20Edges.cpp)
-* [Multiplication Table](src/Additional%20Problems/Multiplication%20Table.cpp)
-* [Advertisement](src/Additional%20Problems/Advertisement.cpp)
-* [Special Substrings](src/Additional%20Problems/Special%20Substrings.cpp)
-* [Permutation Inversions](src/Additional%20Problems/Permutation%20Inversions.cpp)
-* [Maximum Xor Subarray](src/Additional%20Problems/Maximum%20Xor%20Subarray.cpp)
-* [Movie Festival Queries](src/Additional%20Problems/Movie%20Festival%20Queries.cpp)
-* [Chess Tournament](src/Additional%20Problems/Chess%20Tournament.cpp)
-* [Tree Traversals](src/Additional%20Problems/Tree%20Traversals.cpp)
-* [Network Renovation](src/Additional%20Problems/Network%20Renovation.cpp)
-* [Graph Girth](src/Additional%20Problems/Graph%20Girth.cpp)
-* [Intersection Points](src/Additional%20Problems/Intersection%20Points.cpp)
-* [Inverse Inversions](src/Additional%20Problems/Inverse%20Inversions.cpp)
-* [Monotone Subsequences](src/Additional%20Problems/Monotone%20Subsequences.cpp)
-* [String Reorder](src/Additional%20Problems/String%20Reorder.cpp)
-* [Stack Weights](src/Additional%20Problems/Stack%20Weights.cpp)
-* [Pyramid Array](src/Additional%20Problems/Pyramid%20Array.cpp)
-* [Increasing Subsequence II](src/Additional%20Problems/Increasing%20Subsequence%20II.cpp)
-* [String Removals](src/Additional%20Problems/String%20Removals.cpp)
-* [Bit Inversions](src/Additional%20Problems/Bit%20Inversions.cpp)
-* [Xor Pyramid](src/Additional%20Problems/Xor%20Pyramid.cpp)
-* [Writing Numbers](src/Additional%20Problems/Writing%20Numbers.cpp)
-* [String Transform](src/Additional%20Problems/String%20Transform.cpp)
-* [Letter Pair Move Game](src/Additional%20Problems/Letter%20Pair%20Move%20Game.cpp)
-* [Maximum Building I](src/Additional%20Problems/Maximum%20Building%20I.cpp)
-* [Sorting Methods](src/Additional%20Problems/Sorting%20Methods.cpp)
-* [Cyclic Array](src/Additional%20Problems/Cyclic%20Array.cpp)
-* [List of Sums](src/Additional%20Problems/List%20of%20Sums.cpp)
-* [Increasing Array II](src/Additional%20Problems/Increasing%20Array%20II.cpp)
-* [Food Division](src/Additional%20Problems/Food%20Division.cpp)
-* [Bit Problem](src/Additional%20Problems/Bit%20Problem.cpp)
-* [Swap Round Sorting](src/Additional%20Problems/Swap%20Round%20Sorting.cpp)
-* [Binary Subsequences](src/Additional%20Problems/Binary%20Subsequences.cpp)
-* [Tree Isomorphism I](src/Additional%20Problems/Tree%20Isomorphism%20I.cpp)
-* [Counting Sequences](src/Additional%20Problems/Counting%20Sequences.cpp)
-* [Critical Cities](src/Additional%20Problems/Critical%20Cities.cpp)
-* [School Excursion](src/Additional%20Problems/School%20Excursion.cpp)
-* [Coin Grid](src/Additional%20Problems/Coin%20Grid.cpp)
-* [Robot Path](src/Additional%20Problems/Robot%20Path.cpp)
-* [Programmers and Artists](src/Additional%20Problems/Programmers%20and%20Artists.cpp)
-* [Course Schedule II](src/Additional%20Problems/Course%20Schedule%20II.cpp)
-* [Removing Digits II](src/Additional%20Problems/Removing%20Digits%20II.cpp)
-* [Coin Arrangement](src/Additional%20Problems/Coin%20Arrangement.cpp)
-* [Counting Bishops](src/Additional%20Problems/Counting%20Bishops.cpp)
-* [Grid Puzzle I](src/Additional%20Problems/Grid%20Puzzle%20I.cpp)
-* [Grid Puzzle II](src/Additional%20Problems/Grid%20Puzzle%20II.cpp)
-* [Empty String](src/Additional%20Problems/Empty%20String.cpp)
-* [Grid Paths](src/Additional%20Problems/Grid%20Paths.cpp)
-* [Bit Substrings](src/Additional%20Problems/Bit%20Substrings.cpp)
-* [Reversal Sorting](src/Additional%20Problems/Reversal%20Sorting.cpp)
-* [Counting Reorders](src/Additional%20Problems/Counting%20Reorders.cpp)
-* [Book Shop II](src/Additional%20Problems/Book%20Shop%20II.cpp)
-* [Network Breakdown](src/Additional%20Problems/Network%20Breakdown.cpp)
-* [Visiting Cities](src/Additional%20Problems/Visiting%20Cities.cpp)
-* [Missing Coin Sum Queries](src/Additional%20Problems/Missing%20Coin%20Sum%20Queries.cpp)
-* [Number Grid](src/Additional%20Problems/Number%20Grid.cpp)
-* [Maximum Building II](src/Additional%20Problems/Maximum%20Building%20II.cpp)
-* [Filling Trominos](src/Additional%20Problems/Filling%20Trominos.cpp)
-* [Stick Divisions](src/Additional%20Problems/Stick%20Divisions.cpp)
-* [Coding Company](src/Additional%20Problems/Coding%20Company.cpp)
-* [Flight Route Requests](src/Additional%20Problems/Flight%20Route%20Requests.cpp)
-* [Two Stacks Sorting](src/Additional%20Problems/Two%20Stacks%20Sorting.cpp)
-* [Tree Isomorphism II](src/Additional%20Problems/Tree%20Isomorphism%20II.cpp)
-* [Forbidden Cities](src/Additional%20Problems/Forbidden%20Cities.cpp)
-* [Area of Rectangles](src/Additional%20Problems/Area%20of%20Rectangles.cpp)
-* [Grid Completion](src/Additional%20Problems/Grid%20Completion.cpp)
-* [Creating Offices](src/Additional%20Problems/Creating%20Offices.cpp)
-* [Permutations II](src/Additional%20Problems/Permutations%20II.cpp)
-* [Functional Graph Distribution](src/Additional%20Problems/Functional%20Graph%20Distribution.cpp)
-* [New Flight Routes](src/Additional%20Problems/New%20Flight%20Routes.cpp)
-* [Grid Path Construction](src/Additional%20Problems/Grid%20Path%20Construction.cpp)
+* Shortest Subsequence
+* Counting Bits
+* Swap Game
+* Prüfer Code
+* Acyclic Graph Edges
+* Strongly Connected Edges
+* Even Outdegree Edges
+* Multiplication Table
+* Advertisement
+* Special Substrings
+* Permutation Inversions
+* Maximum Xor Subarray
+* Movie Festival Queries
+* Chess Tournament
+* Tree Traversals
+* Network Renovation
+* Graph Girth
+* Intersection Points
+* Inverse Inversions
+* Monotone Subsequences
+* String Reorder
+* Stack Weights
+* Pyramid Array
+* Increasing Subsequence II
+* String Removals
+* Bit Inversions
+* Xor Pyramid
+* Writing Numbers
+* String Transform
+* Letter Pair Move Game
+* Maximum Building I
+* Sorting Methods
+* Cyclic Array
+* List of Sums
+* Increasing Array II
+* Food Division
+* Bit Problem
+* Swap Round Sorting
+* Binary Subsequences
+* Tree Isomorphism I
+* Counting Sequences
+* Critical Cities
+* School Excursion
+* Coin Grid
+* Robot Path
+* Programmers and Artists
+* Course Schedule II
+* Removing Digits II
+* Coin Arrangement
+* Counting Bishops
+* Grid Puzzle I
+* Grid Puzzle II
+* Empty String
+* Grid Paths
+* Bit Substrings
+* Reversal Sorting
+* Counting Reorders
+* Book Shop II
+* Network Breakdown
+* Visiting Cities
+* Missing Coin Sum Queries
+* Number Grid
+* Maximum Building II
+* Filling Trominos
+* Stick Divisions
+* Coding Company
+* Flight Route Requests
+* Two Stacks Sorting
+* Tree Isomorphism II
+* Forbidden Cities
+* Area of Rectangles
+* Grid Completion
+* Creating Offices
+* Permutations II
+* Functional Graph Distribution
+* New Flight Routes
+* Grid Path Construction

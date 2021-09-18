@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
-import markdown
+import os
 
 # access html document
 url = "https://cses.fi/problemset"
@@ -20,6 +20,12 @@ def find_tag_name(x):
             tag_name_list.append(child.string)
     return tag_name_list
 task_tag = list(map(lambda x:find_tag_name(x), task_list_tag))
+
+# Solved tasks
+solved_task = []
+for folder in os.listdir(os.curdir+'/src'):
+    for file in os.listdir(os.curdir+'/src'+'/'+folder):
+        solved_task.append(file[:-4])
 
 # README
 text = '''# CSES-Solution
@@ -43,11 +49,15 @@ for idx, c in enumerate(category_tag):
     for t in task_tag[idx]:
         src_t = t.replace(" ", "%20")
         real_src = src + src_t + ".cpp"
-        contents += f'* [{t}]({real_src})\n'
+        if t in solved_task:
+            contents += f'* [{t}]({real_src})\n'
+        else:
+            contents += f'* {t}\n'
 
 text = text + table_of_contents + contents
 
 with open('README.md', 'w') as f:
     f.write(text)
+    pass
 print("README Updated")
 f.close()
