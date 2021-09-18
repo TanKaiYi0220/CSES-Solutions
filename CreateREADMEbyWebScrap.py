@@ -38,7 +38,7 @@ table_of_contents = "# Table of Contents\n"
 
 for c in category_tag:
     rm_space = c.replace(" ", "-")
-    table_of_contents += f'[{c}](#{rm_space})\n'
+    table_of_contents += f'* [{c}](#{rm_space})\n'
 
 contents = ""
 for idx, c in enumerate(category_tag):

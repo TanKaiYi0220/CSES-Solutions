@@ -3,17 +3,17 @@
 > These solutions are may not the best solution for each task. <br>
 > I'm just sharing my own solutions or solution that I had found. <br>
 # Table of Contents
-[Introductory Problems](#Introductory-Problems)
-[Sorting and Searching](#Sorting-and-Searching)
-[Dynamic Programming](#Dynamic-Programming)
-[Graph Algorithms](#Graph-Algorithms)
-[Range Queries](#Range-Queries)
-[Tree Algorithms](#Tree-Algorithms)
-[Mathematics](#Mathematics)
-[String Algorithms](#String-Algorithms)
-[Geometry](#Geometry)
-[Advanced Techniques](#Advanced-Techniques)
-[Additional Problems](#Additional-Problems)
+* [Introductory Problems](#Introductory-Problems)
+* [Sorting and Searching](#Sorting-and-Searching)
+* [Dynamic Programming](#Dynamic-Programming)
+* [Graph Algorithms](#Graph-Algorithms)
+* [Range Queries](#Range-Queries)
+* [Tree Algorithms](#Tree-Algorithms)
+* [Mathematics](#Mathematics)
+* [String Algorithms](#String-Algorithms)
+* [Geometry](#Geometry)
+* [Advanced Techniques](#Advanced-Techniques)
+* [Additional Problems](#Additional-Problems)
 # Introductory Problems <a id='Introductory-Problems'></a>
 * [Weird Algorithm](src/Introductory%20Problems/Weird%20Algorithm.cpp)
 * [Missing Number](src/Introductory%20Problems/Missing%20Number.cpp)
