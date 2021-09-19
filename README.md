@@ -29,7 +29,7 @@
 * [Palindrome Reorder](src/Introductory%20Problems/Palindrome%20Reorder.cpp)
 * [Gray Code](src/Introductory%20Problems/Gray%20Code.cpp)
 * [Tower of Hanoi](src/Introductory%20Problems/Tower%20of%20Hanoi.cpp)
-* Creating Strings
+* [Creating Strings](src/Introductory%20Problems/Creating%20Strings.cpp)
 * Apple Division
 * Chessboard and Queens
 * Digit Queries
