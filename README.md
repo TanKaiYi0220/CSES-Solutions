@@ -30,7 +30,7 @@
 * [Gray Code](src/Introductory%20Problems/Gray%20Code.cpp)
 * [Tower of Hanoi](src/Introductory%20Problems/Tower%20of%20Hanoi.cpp)
 * [Creating Strings](src/Introductory%20Problems/Creating%20Strings.cpp)
-* Apple Division
+* [Apple Division](src/Introductory%20Problems/Apple%20Division.cpp)
 * Chessboard and Queens
 * Digit Queries
 * Grid Paths
