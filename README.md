@@ -36,11 +36,11 @@
 * [Digit Queries](src/Introductory%20Problems/Digit%20Queries.cpp)
 * [Grid Paths](src/Introductory%20Problems/Grid%20Paths.cpp)
 # Sorting and Searching <a id='Sorting-and-Searching'></a>
-* Distinct Numbers
-* Apartments
-* Ferris Wheel
-* Concert Tickets
-* Restaurant Customers
+* [Distinct Numbers](src/Sorting%20and%20Searching/Distinct%20Numbers.cpp)
+* [Apartments](src/Sorting%20and%20Searching/Apartments.cpp)
+* [Ferris Wheel](src/Sorting%20and%20Searching/Ferris%20Wheel.cpp)
+* [Concert Tickets](src/Sorting%20and%20Searching/Concert%20Tickets.cpp)
+* [Restaurant Customers](src/Sorting%20and%20Searching/Restaurant%20Customers.cpp)
 * Movie Festival
 * Sum of Two Values
 * Maximum Subarray Sum
