@@ -14,6 +14,7 @@
 * [Geometry](#Geometry)
 * [Advanced Techniques](#Advanced-Techniques)
 * [Additional Problems](#Additional-Problems)
+* [Practice More](#Practice-More)
 # Introductory Problems <a id='Introductory-Problems'></a>
 * [Weird Algorithm](src/Introductory%20Problems/Weird%20Algorithm.cpp)
 * [Missing Number](src/Introductory%20Problems/Missing%20Number.cpp)
@@ -31,9 +32,9 @@
 * [Tower of Hanoi](src/Introductory%20Problems/Tower%20of%20Hanoi.cpp)
 * [Creating Strings](src/Introductory%20Problems/Creating%20Strings.cpp)
 * [Apple Division](src/Introductory%20Problems/Apple%20Division.cpp)
-* Chessboard and Queens
-* Digit Queries
-* Grid Paths
+* [Chessboard and Queens](src/Introductory%20Problems/Chessboard%20and%20Queens.cpp)
+* [Digit Queries](src/Introductory%20Problems/Digit%20Queries.cpp)
+* [Grid Paths](src/Introductory%20Problems/Grid%20Paths.cpp)
 # Sorting and Searching <a id='Sorting-and-Searching'></a>
 * Distinct Numbers
 * Apartments
@@ -325,3 +326,8 @@
 * Functional Graph Distribution
 * New Flight Routes
 * Grid Path Construction
+# Practice More <a id='Practice-More'></a>
+* [Gray Code](src/Introductory%20Problems/Gray%20Code.cpp)
+* [Chessboard and Queens](src/Introductory%20Problems/Chessboard%20and%20Queens.cpp)
+* [Digit Queries](src/Introductory%20Problems/Digit%20Queries.cpp)
+* [Grid Paths](src/Introductory%20Problems/Grid%20Paths.cpp)
