@@ -41,9 +41,9 @@
 * [Ferris Wheel](src/Sorting%20and%20Searching/Ferris%20Wheel.cpp)
 * [Concert Tickets](src/Sorting%20and%20Searching/Concert%20Tickets.cpp)
 * [Restaurant Customers](src/Sorting%20and%20Searching/Restaurant%20Customers.cpp)
-* Movie Festival
-* Sum of Two Values
-* Maximum Subarray Sum
+* [Movie Festival](src/Sorting%20and%20Searching/Movie%20Festival.cpp)
+* [Sum of Two Values](src/Sorting%20and%20Seaching/Sum%20of%20Two%20Values.cpp)
+* [Maximum Subarray Sum](src/Sorting%20and%20Seaching/Maximum%20Subarray%20Sum.cpp)
 * Stick Lengths
 * Missing Coin Sum
 * Collecting Numbers
